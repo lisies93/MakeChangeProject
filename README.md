@@ -16,14 +16,19 @@ and will give the option to try again or exit the transaction.
 Topics:
 
 Conditionals (if/else/switch)
+
 Looping (while loops)
+
 Methods
+
 Casting
 
 Tecnologies :
 
 Java
+
 Eclipse
+
 Git
 
 
